@@ -1,0 +1,114 @@
+{
+  "code": "DES3083",
+  "name": "Software Engineering Process",
+  "credit": 3,
+  "total_slt": 120,
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Introduction to Software Engineering Process:",
+      "content": "Pengenalan kepada Proses Kejuruteraan Perisian: Definisi dan kepentingan proses perisian; hubungan antara proses, produk dan kualiti; gambaran keseluruhan fasa kitar hayat perisian. Introduction to Software Engineering Process: Definition and importance of software process; relationship between process, product and quality; overview of software lifecycle phases",
+      "slt_hours": 4
+    },
+    {
+      "week": 2,
+      "title": "Software Development Process Models:",
+      "content": "Model Proses Pembangunan Perisian: Pengenalan kepada model Waterfall, Incremental, Iterative, Prototyping dan Spiral; ciri-ciri, kekuatan dan kekangan setiap model. Software Development Process Models: Overview of Waterfall, Incremental, Iterative, Prototyping and Spiral models; characteristics, strengths and limitations of each model.",
+      "slt_hours": 6
+    },
+    {
+      "week": 3,
+      "title": "Agile and Scrum Process:",
+      "content": "Proses Agile dan Scrum: Nilai dan prinsip Agile; peranan, acara dan artifak Scrum; kesesuaian proses berasaskan Agile dalam projek perisian. Agile and Scrum Process: Agile values and principles; Scrum roles, events and artefacts; suitability of Agile-based process in software projects.",
+      "slt_hours": 5
+    },
+    {
+      "week": 4,
+      "title": "Selecting an Appropriate Process Model:",
+      "content": "Pemilihan Model Proses yang Sesuai: Faktor yang mempengaruhi pemilihan model proses seperti saiz projek, kestabilan keperluan, risiko, keupayaan pasukan, tempoh masa dan keperluan pihak berkepentingan. Selecting an Appropriate Process Model: Factors affecting process model selection such as project size, requirements stability, risk, team capability, timeline and stakeholder needs",
+      "slt_hours": 6
+    },
+    {
+      "week": 5,
+      "title": "Software Process Roles and Responsibilities",
+      "content": "Tanggungjawab dan peranan software process Memecahkan aktiviti proses kepada peranan pasukan dan tanggungjawab individu; mengenal pasti pemilikan tugasan; menghubungkan fasa proses dengan hasil kerja. Software Process Roles and Responsibilities Breaking down process activities into team roles and individual responsibilities; identifying task ownership; linking process phases to deliverables",
+      "slt_hours": 5
+    },
+    {
+      "week": 6,
+      "title": "Task Planning and Team Commitment:",
+      "content": "Perancangan Tugasan dan Komitmen Pasukan: Merancang kerja berdasarkan tanggungjawab yang dipersetujui; pengagihan, keutamaan dan penjadualan tugasan; komitmen terhadap tugasan yang diberikan dalam pasukan. Task Planning and Team Commitment: Planning work based on agreed responsibilities; task allocation, prioritisation and scheduling; commitment to assigned tasks within a team setting",
+      "slt_hours": 6
+    },
+    {
+      "week": 7,
+      "title": "Software Process Execution and Team Coordination:",
+      "content": "Pelaksanaan Proses Perisian dan Penyelarasan Pasukan: Melaksanakan aktiviti proses perisian mengikut perancangan dan model proses yang dipilih; menyelaras tugasan dan kebergantungan antara ahli pasukan; melaporkan kemajuan kerja; mengurus isu dan perubahan; serta memastikan kerjasama pasukan menyokong pelaksanaan proses secara berkesan. Software Process Execution and Team Coordination: Executing software process activities according to the agreed plan and selected process model; coordinating tasks and dependencies among team members; reporting work progress; managing issues and changes; and maintaining effective collaboration to support process execution.",
+      "slt_hours": 6
+    },
+    {
+      "week": 8,
+      "title": "Software Development Documentation:",
+      "content": "Dokumentasi Pembangunan Perisian: Tujuan dan struktur dokumentasi pembangunan perisian; penyediaan dokumentasi yang lengkap dan konsisten bagi menyokong aktiviti pembangunan perisian. Software Development Documentation: Purpose and structure of software development documents; preparation of complete and consistent documentation to support software development activities",
+      "slt_hours": 5
+    },
+    {
+      "week": 9,
+      "title": "Monitoring Project Progress Data:",
+      "content": "Pemantauan Data Kemajuan Projek: Memantau status projek menggunakan penunjuk kemajuan seperti pencapaian, papan tugasan, carta burn-down dan rekod penyempurnaan; mentafsir data kemajuan projek. Monitoring Project Progress Data: Monitoring project status using progress indicators such as milestones, task boards, burn-down charts and completion records; interpreting project progress data.",
+      "slt_hours": 5
+    },
+    {
+      "week": 10,
+      "title": "Software Process Analysis Approaches:",
+      "content": "Pendekatan Analisis Proses Perisian: Menganalisis aliran kerja, kekangan, kelewatan, kebergantungan dan ketidakcekapan dalam sesuatu proses perisian menggunakan pelbagai pendekatan analisis. Software Process Analysis Approaches: Analysing workflow, bottlenecks, delays, dependencies and inefficiencies in a software process using different analysis approaches",
+      "slt_hours": 7
+    },
+    {
+      "week": 11,
+      "title": "Quality Analysis in Software Process:",
+      "content": "Analisis Kualiti dalam Proses Perisian: Meneliti isu berkaitan kualiti seperti kecacatan, kerja semula, pematuhan, konsistensi dan keberkesanan proses; mentafsir dapatan kualiti untuk penambahbaikan. Quality Analysis in Software Process: Examining quality-related issues such as defects, rework, compliance, consistency and process effectiveness; interpreting quality findings for improvement.",
+      "slt_hours": 6
+    },
+    {
+      "week": 12,
+      "title": "Retrospective in Software Development Team:",
+      "content": "Retrospektif dalam Pasukan Pembangunan Perisian: Melaksanakan aktiviti retrospektif untuk mengenal pasti kekuatan, kelemahan dan pengajaran yang diperoleh; membincangkan kapasiti pasukan dan cabaran semasa pelaksanaan proses. Retrospective in Software Development Team: Conducting retrospective activities to identify strengths, weaknesses and lessons learned; discussing team capacity and challenges encountered during process execution",
+      "slt_hours": 5
+    },
+    {
+      "week": 13,
+      "title": "Software Lifecycle Process Improvement:",
+      "content": "Penambahbaikan Proses Kitar Hayat Perisian: Mencadangkan dan mewajarkan penambahbaikan terhadap proses kitar hayat perisian berdasarkan kapasiti pasukan, data kemajuan projek dan analisis kualiti. Software Lifecycle Process Improvement: Proposing and justifying improvements to the software lifecycle process based on team capacity, project progress data and quality analysis",
+      "slt_hours": 5
+    },
+    {
+      "week": 14,
+      "title": "Software Process Evaluation and Lessons Learned Software Process Evaluation and Lessons Learned:",
+      "content": "Software Process Evaluation and Lessons Learned Menilai keberkesanan proses pembangunan yang dilaksanakan; membandingkan proses yang dirancang dengan pelaksanaan sebenar; menilai kekuatan, kelemahan dan kesesuaian proses; merumuskan pembelajaran dan cadangan penambahbaikan. Software Process Evaluation and Lessons Learned Software Process Evaluation and Lessons Learned: Evaluating the effectiveness of the implemented software process; comparing planned and actual process execution; examining process strengths, weaknesses and suitability; consolidating lessons learned and recommendations for future projects.",
+      "slt_hours": 4
+    }
+  ],
+  "assessments": [
+    {
+      "name": "Online Quiz",
+      "weight": 5
+    },
+    {
+      "name": "Group",
+      "weight": 20
+    },
+    {
+      "name": "Group #2",
+      "weight": 30
+    },
+    {
+      "name": "Group #3",
+      "weight": 5
+    },
+    {
+      "name": "Final Examination",
+      "weight": 40
+    }
+  ]
+}

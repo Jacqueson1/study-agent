@@ -1,0 +1,110 @@
+{
+  "code": "DES3103",
+  "name": "Software Validation and Verification",
+  "credit": 3,
+  "total_slt": 120,
+  "weeks": [
+    {
+      "week": 1,
+      "title": "Introduction to Software Verification & Validation (V&V) I",
+      "content": "Pengenalan kepada Pengesahan & Verifikasi Perisian (V&V) I Analisis perbezaan antara pengesahan & pengesahan perisian. Takrifan V&V, istilah dan asas seperti yang ditakrifkan dalam piawaian IEEE, dokumentasi standard IEEE untuk menjalankan V&V. Introduction to Software Verification & Validation (V&V) I Analyze the differences between software verification & validationDefinitions of V&V, terminologies and foundations as defined in the IEEE standard, IEEE standard documentations for conducting V&V.",
+      "slt_hours": 3
+    },
+    {
+      "week": 2,
+      "title": "Introduction to Software Verification & Validation (V&V) Session II",
+      "content": "Pengenalan kepada Pengesahan & Verifikasi Perisian (V&V) II Kepentingan menjalankan pengesahan dan verifikasi perisian yang betul bagi menyokong matlamat kualiti projek dan mematuhi keperluan kualiti dalam pembangunan perisian. Takrifan V&V, istilah dan asas seperti yang ditakrifkan dalam piawaian IEEE, dokumentasi standard IEEE untuk menjalankan V&V. Introduction to Software Verification & Validation (V&V) Session II Importance of conducting proper software verification and validation that supports the project’s quality goals and adheres to quality requirements in software development. Definitions of V&V, terminologies and foundations as defined in the IEEE standard, IEEE standard documentations for conducting V&V.",
+      "slt_hours": 3
+    },
+    {
+      "week": 3,
+      "title": "Managing V&V with SQA",
+      "content": "Mengurus V&V dengan SQA Hubungan antara V&V dan jaminan kualiti perisian (SQA) – peranan SQA dalam V&V, definisi dan konsep asas perisian kualiti. Mengintegrasikan SQA dalam kitaran hayat projek perisian, isu kualiti dan masalah dalam proses pembangunan perisian dan menyesuaikan standard SQA. Pengurusan kualiti dan kawalan kualiti dalam proses pembangunan perisian. Managing V&V with SQA Relations between V&V and software quality assurance (SQA) – roles of SQA in V&V, definitions, and basic concepts of quality software. Integrating SQA in software project lifecycle, quality issues, and problems in the software development process and fitness the SQA standard. Quality management and quality control in software development process.",
+      "slt_hours": 2
+    },
+    {
+      "week": 4,
+      "title": "Quality metrics or attributes in V&V",
+      "content": "Metrik atau atribut kualiti dalam V&V Bezakan atribut kualiti yang boleh dilihat pada masa nyata (prestasi, keselamatan, ketersediaan, kefungsian dan kebolehgunaan) daripada yang tidak dapat dilihat pada masa nyata (kebolehubahsuaian, mudah alih, kebolehgunaan semula, kebolehintegrasian dan kebolehujian), dan yang berkaitan dengan kualiti intrinsik seni bina dan reka bentuk terperinci (integriti konsep, ketepatan dan kesempurnaan). Quality metrics or attributes in V&V Distinguish quality attributes that are discernible at run- time (performance, security, availability, functionality, and usability) from those not discernible at run-time (modifiability, portability, reusability, integrability and testability), and those related to the intrinsic qualities of architecture and detailed design (conceptual integrity, correctness and completeness).",
+      "slt_hours": 3
+    },
+    {
+      "week": 5,
+      "title": "Software Reviews",
+      "content": "Ulasan Perisian Ulasan kod rakan sebaya (pemeriksaan & panduan langkah demi langkah) untuk menilai atribut kualiti yang tidak dapat dilihat pada masa nyata. Semakan perisian pelaporan dan dokumentasi. Software Reviews Peer code reviews (inspections & walkthroughs) for evaluating quality attributes that are not discernible at run-time. Software reviews reporting and documentation.",
+      "slt_hours": 5
+    },
+    {
+      "week": 6,
+      "title": "Quality Control: Software Testing",
+      "content": "Kawalan Kualiti: Pengujian Perisian Gambaran keseluruhan ujian perisian sebagai kawalan kualiti. Ujian kotak hitam dan kotak putih. Pelaksanaan ujian perisian – proses ujian, pelan ujian, reka bentuk kes ujian. Quality Control: Software Testing Overview of software testing as quality control. Black box and white box testing. Software testing implementation – testing process, test plan, test case design.",
+      "slt_hours": 11
+    },
+    {
+      "week": 7,
+      "title": "Human-Computer-Interface (HCI) Testing",
+      "content": "Pengujian Antaramuka Komputer-Manusia Kepelbagaian aspek kebergunaan dan kebolehgunaan, penilaian heuristik, penelusuran kognitif, pendekatan ujian pengguna (kaedah pemerhatian, kaedah berfikir dengan kuat, dsb.). Teknik ujian untuk tapak web dan eksperimen formal untuk menguji hipotesis tentang kawalan HCI tertentu. Human-Computer-Interface (HCI) Testing The variety of aspects of usefulness and usability, heuristic evaluation, cognitive walkthroughs, user testing approaches (observation method, think-aloud method, etc.).Testing techniques for web sites and formal experiments to test hypotheses about specific HCI controls.",
+      "slt_hours": 10
+    },
+    {
+      "week": 8,
+      "title": "Manual Testing",
+      "content": "Pengujian Manual • Gambaran Keseluruhan Ujian Manual • Kelebihan & Kelemahan Ujian Manual • Alat Pengujian Perisian • Strategi Pengujian Perisian & Sistem • Rancangan Kes Ujian Manual Testing • Overview of Manual • Advantages & Disadvantages of Manual • Software Testing Tools• Software & System Testing Strategies• Test Case Plan",
+      "slt_hours": 11
+    },
+    {
+      "week": 9,
+      "title": "Automation Testing",
+      "content": "Pengujian Automasi • Gambaran Keseluruhan Ujian Manual • Kelebihan & Kelemahan Ujian Manual • Alat Pengujian Perisian • Strategi Pengujian Perisian & Sistem • Rancangan Kes Ujian Automation Testing • Overview of Manual • Advantages & Disadvantages of Manual • Software Testing Tools• Software & System Testing Strategies• Test Case Plan",
+      "slt_hours": 2
+    },
+    {
+      "week": 10,
+      "title": "Quality Maturity Models",
+      "content": "Model Kematangan Kualiti Model kematangan QA tradisional, kematangan proses CMM, ketidakmatangan proses CIMM, QA pada tahap kematangan, organisasi matang berkualiti, melanjutkan CMM ke kitaran hayat. Menguji model kematangan (TMMI). Quality Maturity Models Traditional QA maturity models, CMM process maturity, CIMM process immaturity, QA at maturity level, quality mature organizations, extending CMM to the life cycle. Testing maturity model (TMMI).",
+      "slt_hours": 2
+    },
+    {
+      "week": 11,
+      "title": "Software Problem Analysis and Reporting",
+      "content": "Analisis dan Pelaporan Masalah Perisian Menganalisis laporan kegagalan perisian. Penjejakan masalah dan analisis kecacatan. Software Problem Analysis and Reporting Analyzing software failure reports. Problem tracking and defect analysis.",
+      "slt_hours": 17
+    },
+    {
+      "week": 12,
+      "title": "Quality Culture in doing V&V",
+      "content": "Budaya Kualiti dalam melaksanakan V&V Peranan budaya kualiti dalam V&V, bagaimana SQA gagal kerana budaya masyarakat, prasyarat budaya untuk SQA, Kepentingan ‘buy-in’, kepimpinan kritikal dalam mewujudkan SQA, masalah mengubah budaya, membangunkan pelan hala tuju SQA. Quality Culture in doing V&V The role of quality culture in V&V, how SQA fails because of culture, cultural prerequisites for SQA, Importance of ‘buy-in’, critical leadership in establishing SQA, problem of changing the culture, developing SQA roadmap.",
+      "slt_hours": 2
+    },
+    {
+      "week": 13,
+      "title": "Safety and Security in VnV",
+      "content": "Keselamatan dan Sekuriti dalam VnV Senarai bahaya awal, lakukan analisis bahaya dan risiko, dan kenal pasti keperluan keselamatan. Laksanakan dan sahkan penyelesaian reka bentuk, menggunakan reka bentuk selamat dan amalan pengekodan, untuk memastikan bahaya dikurangkan, dan keperluan keselamatan dipenuhi. Berhati-hati dengan akibat pembangunan perisian yang tidak selamat, iaitu kesan negatif kepada mereka yang menggunakan atau menerima perkhidmatan daripada perisian tersebut. Safety and Security in VnV Preliminary hazard lists, perform hazard and risk analyses, and identify safety requirements. Implement and verify design solutions, using safe design and coding practices, to assure that the hazards are mitigated, and the safety requirements are met. Be aware of the consequences of the development of unsafe software, that is, the negative effect on those who use or receive services from the software.",
+      "slt_hours": 2
+    },
+    {
+      "week": 14,
+      "title": "Presentation, Reflection, Conclusion and Closure",
+      "content": "Perbentangan, Refleksi, Kesimpulan dan Penutup Refleksi Pelaksanaan OPBL (Penguji Perisian) dalam Kursus Pengesahan dan Verifikasi Perisian (V&V): i. Kesan OPBL terhadap perkembangan pengetahuan, kemahiran, personaliti & komunikasi, dan pengalaman pelajar. ii. Masalah yang dihadapi dan penyelesaian untuk menyelesaikan OPBL. Presentation, Reflection, Conclusion and Closure Reflection on the Implementation OPBL (Software Testers) in the Software Verification and Validation (V&V) course: i. The effect of OPBL on the development of knowledge, skills, personality & communication, and students' experiences. ii. Problems encountered and solutions to complete OPBL.",
+      "slt_hours": 17
+    }
+  ],
+  "assessments": [
+    {
+      "name": "Online Quiz",
+      "weight": 20
+    },
+    {
+      "name": "Debate",
+      "weight": 20
+    },
+    {
+      "name": "Final Report",
+      "weight": 20
+    },
+    {
+      "name": "Final Examination",
+      "weight": 40
+    }
+  ]
+}

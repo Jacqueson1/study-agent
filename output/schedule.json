@@ -1,0 +1,1934 @@
+[
+  {
+    "date": "2026-10-03",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 1: Introduction to Software Engineering Process:"
+  },
+  {
+    "date": "2026-10-03",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3083",
+    "label": "Week 1: Introduction to Software Engineering Process:"
+  },
+  {
+    "date": "2026-10-03",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3083",
+    "label": "Week 1: Introduction to Software Engineering Process:"
+  },
+  {
+    "date": "2026-10-03",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 1: Introduction to Software Verification & Validation (V&V) I"
+  },
+  {
+    "date": "2026-10-03",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 1: Introduction to Software Verification & Validation (V&V) I"
+  },
+  {
+    "date": "2026-10-04",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 1: Introduction to Software Engineering Process:"
+  },
+  {
+    "date": "2026-10-04",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Week 1: Introduction to Software Engineering Process:"
+  },
+  {
+    "date": "2026-10-05",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 2: Software Development Process Models:"
+  },
+  {
+    "date": "2026-10-05",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3083",
+    "label": "Week 2: Software Development Process Models:"
+  },
+  {
+    "date": "2026-10-05",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II"
+  },
+  {
+    "date": "2026-10-06",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 2: Software Development Process Models:"
+  },
+  {
+    "date": "2026-10-06",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II"
+  },
+  {
+    "date": "2026-10-07",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 2: Software Development Process Models:"
+  },
+  {
+    "date": "2026-10-07",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II"
+  },
+  {
+    "date": "2026-10-08",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 2: Software Development Process Models:"
+  },
+  {
+    "date": "2026-10-08",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II"
+  },
+  {
+    "date": "2026-10-09",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3083",
+    "label": "Week 2: Software Development Process Models:"
+  },
+  {
+    "date": "2026-10-10",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3083",
+    "label": "Week 2: Software Development Process Models:"
+  },
+  {
+    "date": "2026-10-11",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3083",
+    "label": "Week 2: Software Development Process Models:"
+  },
+  {
+    "date": "2026-10-12",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 3: Agile and Scrum Process:"
+  },
+  {
+    "date": "2026-10-12",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 3: Managing V&V with SQA"
+  },
+  {
+    "date": "2026-10-12",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3083",
+    "label": "Online Quiz prep"
+  },
+  {
+    "date": "2026-10-12",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Online Quiz prep"
+  },
+  {
+    "date": "2026-10-12",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #3 prep"
+  },
+  {
+    "date": "2026-10-13",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 3: Agile and Scrum Process:"
+  },
+  {
+    "date": "2026-10-13",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 3: Managing V&V with SQA"
+  },
+  {
+    "date": "2026-10-13",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3083",
+    "label": "Online Quiz prep"
+  },
+  {
+    "date": "2026-10-13",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Online Quiz prep"
+  },
+  {
+    "date": "2026-10-13",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #3 prep"
+  },
+  {
+    "date": "2026-10-14",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 3: Agile and Scrum Process:"
+  },
+  {
+    "date": "2026-10-14",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 3: Managing V&V with SQA"
+  },
+  {
+    "date": "2026-10-14",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3083",
+    "label": "Online Quiz prep"
+  },
+  {
+    "date": "2026-10-14",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Online Quiz prep"
+  },
+  {
+    "date": "2026-10-14",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #3 prep"
+  },
+  {
+    "date": "2026-10-15",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3083",
+    "label": "Week 3: Agile and Scrum Process:"
+  },
+  {
+    "date": "2026-10-16",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3083",
+    "label": "Week 3: Agile and Scrum Process:"
+  },
+  {
+    "date": "2026-10-17",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3083",
+    "label": "Week 3: Agile and Scrum Process:"
+  },
+  {
+    "date": "2026-10-19",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 4: Selecting an Appropriate Process Model:"
+  },
+  {
+    "date": "2026-10-19",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3083",
+    "label": "Week 4: Selecting an Appropriate Process Model:"
+  },
+  {
+    "date": "2026-10-19",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 4: Quality metrics or attributes in V&V"
+  },
+  {
+    "date": "2026-10-19",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-20",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 4: Selecting an Appropriate Process Model:"
+  },
+  {
+    "date": "2026-10-20",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 4: Quality metrics or attributes in V&V"
+  },
+  {
+    "date": "2026-10-20",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-21",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 4: Selecting an Appropriate Process Model:"
+  },
+  {
+    "date": "2026-10-21",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 4: Quality metrics or attributes in V&V"
+  },
+  {
+    "date": "2026-10-21",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-22",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 4: Selecting an Appropriate Process Model:"
+  },
+  {
+    "date": "2026-10-22",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 4: Quality metrics or attributes in V&V"
+  },
+  {
+    "date": "2026-10-22",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-23",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 4: Selecting an Appropriate Process Model:"
+  },
+  {
+    "date": "2026-10-23",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-24",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 4: Selecting an Appropriate Process Model:"
+  },
+  {
+    "date": "2026-10-24",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-25",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 4: Selecting an Appropriate Process Model:"
+  },
+  {
+    "date": "2026-10-25",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-26",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 5: Software Process Roles and Responsibilities"
+  },
+  {
+    "date": "2026-10-26",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 5: Software Reviews"
+  },
+  {
+    "date": "2026-10-26",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-26",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-10-26",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group prep"
+  },
+  {
+    "date": "2026-10-27",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 5: Software Process Roles and Responsibilities"
+  },
+  {
+    "date": "2026-10-27",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 5: Software Reviews"
+  },
+  {
+    "date": "2026-10-27",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-27",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-10-27",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group prep"
+  },
+  {
+    "date": "2026-10-28",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 5: Software Process Roles and Responsibilities"
+  },
+  {
+    "date": "2026-10-28",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 5: Software Reviews"
+  },
+  {
+    "date": "2026-10-28",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-28",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-10-28",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group prep"
+  },
+  {
+    "date": "2026-10-29",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 5: Software Process Roles and Responsibilities"
+  },
+  {
+    "date": "2026-10-29",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 5: Software Reviews"
+  },
+  {
+    "date": "2026-10-29",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-29",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-10-29",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group prep"
+  },
+  {
+    "date": "2026-10-30",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 5: Software Process Roles and Responsibilities"
+  },
+  {
+    "date": "2026-10-30",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 5: Software Reviews"
+  },
+  {
+    "date": "2026-10-30",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-30",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-10-30",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group prep"
+  },
+  {
+    "date": "2026-10-31",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 5: Software Process Roles and Responsibilities"
+  },
+  {
+    "date": "2026-10-31",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 5: Software Reviews"
+  },
+  {
+    "date": "2026-10-31",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-10-31",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-10-31",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3083",
+    "label": "Group prep"
+  },
+  {
+    "date": "2026-11-01",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3103",
+    "label": "Week 6: Quality Control: Software Testing"
+  },
+  {
+    "date": "2026-11-01",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-11-02",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 6: Task Planning and Team Commitment:"
+  },
+  {
+    "date": "2026-11-02",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3083",
+    "label": "Week 6: Task Planning and Team Commitment:"
+  },
+  {
+    "date": "2026-11-02",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-11-02",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-02",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group prep"
+  },
+  {
+    "date": "2026-11-03",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 6: Task Planning and Team Commitment:"
+  },
+  {
+    "date": "2026-11-03",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-11-03",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-03",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group prep"
+  },
+  {
+    "date": "2026-11-04",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 6: Task Planning and Team Commitment:"
+  },
+  {
+    "date": "2026-11-04",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-11-04",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-05",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 6: Task Planning and Team Commitment:"
+  },
+  {
+    "date": "2026-11-05",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-11-05",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-06",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 6: Task Planning and Team Commitment:"
+  },
+  {
+    "date": "2026-11-06",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+  },
+  {
+    "date": "2026-11-06",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-07",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 6: Task Planning and Team Commitment:"
+  },
+  {
+    "date": "2026-11-07",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-08",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 6: Task Planning and Team Commitment:"
+  },
+  {
+    "date": "2026-11-08",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-09",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 7: Software Process Execution and Team Coordination:"
+  },
+  {
+    "date": "2026-11-09",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3083",
+    "label": "Week 7: Software Process Execution and Team Coordination:"
+  },
+  {
+    "date": "2026-11-09",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-10",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 7: Software Process Execution and Team Coordination:"
+  },
+  {
+    "date": "2026-11-10",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-11",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 7: Software Process Execution and Team Coordination:"
+  },
+  {
+    "date": "2026-11-11",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-12",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 7: Software Process Execution and Team Coordination:"
+  },
+  {
+    "date": "2026-11-12",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-13",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 7: Software Process Execution and Team Coordination:"
+  },
+  {
+    "date": "2026-11-13",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-14",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 7: Software Process Execution and Team Coordination:"
+  },
+  {
+    "date": "2026-11-14",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-15",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 7: Software Process Execution and Team Coordination:"
+  },
+  {
+    "date": "2026-11-15",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing"
+  },
+  {
+    "date": "2026-11-16",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 8: Software Development Documentation:"
+  },
+  {
+    "date": "2026-11-16",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Debate prep"
+  },
+  {
+    "date": "2026-11-17",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 8: Software Development Documentation:"
+  },
+  {
+    "date": "2026-11-17",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Debate prep"
+  },
+  {
+    "date": "2026-11-18",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 8: Software Development Documentation:"
+  },
+  {
+    "date": "2026-11-18",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Debate prep"
+  },
+  {
+    "date": "2026-11-19",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 8: Software Development Documentation:"
+  },
+  {
+    "date": "2026-11-19",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Debate prep"
+  },
+  {
+    "date": "2026-11-20",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 8: Software Development Documentation:"
+  },
+  {
+    "date": "2026-11-20",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Debate prep"
+  },
+  {
+    "date": "2026-11-21",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 8: Software Development Documentation:"
+  },
+  {
+    "date": "2026-11-21",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Debate prep"
+  },
+  {
+    "date": "2026-11-22",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Debate prep"
+  },
+  {
+    "date": "2026-11-23",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 9: Monitoring Project Progress Data:"
+  },
+  {
+    "date": "2026-11-23",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 9: Automation Testing"
+  },
+  {
+    "date": "2026-11-23",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3103",
+    "label": "Debate prep"
+  },
+  {
+    "date": "2026-11-23",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-11-23",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-11-24",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 9: Monitoring Project Progress Data:"
+  },
+  {
+    "date": "2026-11-24",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 9: Automation Testing"
+  },
+  {
+    "date": "2026-11-24",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-11-24",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-11-25",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 9: Monitoring Project Progress Data:"
+  },
+  {
+    "date": "2026-11-25",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 9: Automation Testing"
+  },
+  {
+    "date": "2026-11-25",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-11-25",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-11-26",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 9: Monitoring Project Progress Data:"
+  },
+  {
+    "date": "2026-11-26",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-11-26",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-11-27",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 9: Monitoring Project Progress Data:"
+  },
+  {
+    "date": "2026-11-27",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-11-27",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-11-28",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 9: Monitoring Project Progress Data:"
+  },
+  {
+    "date": "2026-11-28",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-11-28",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-11-29",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-11-29",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-11-30",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-11-30",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-11-30",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 10: Quality Maturity Models"
+  },
+  {
+    "date": "2026-11-30",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-11-30",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-11-30",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Report prep"
+  },
+  {
+    "date": "2026-12-01",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-12-01",
+    "start": "10:00",
+    "end": "10:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-12-01",
+    "start": "13:00",
+    "end": "13:50",
+    "subject": "DES3103",
+    "label": "Week 10: Quality Maturity Models"
+  },
+  {
+    "date": "2026-12-01",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-01",
+    "start": "19:00",
+    "end": "19:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-12-01",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Report prep"
+  },
+  {
+    "date": "2026-12-02",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-12-02",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 10: Quality Maturity Models"
+  },
+  {
+    "date": "2026-12-02",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-02",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-12-02",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Report prep"
+  },
+  {
+    "date": "2026-12-03",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-12-03",
+    "start": "12:00",
+    "end": "12:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-03",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3083",
+    "label": "Group #2 prep"
+  },
+  {
+    "date": "2026-12-03",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Report prep"
+  },
+  {
+    "date": "2026-12-04",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-12-04",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-04",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Report prep"
+  },
+  {
+    "date": "2026-12-05",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-12-05",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-05",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Final Report prep"
+  },
+  {
+    "date": "2026-12-06",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 10: Software Process Analysis Approaches:"
+  },
+  {
+    "date": "2026-12-06",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-07",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 11: Quality Analysis in Software Process:"
+  },
+  {
+    "date": "2026-12-07",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3083",
+    "label": "Week 11: Quality Analysis in Software Process:"
+  },
+  {
+    "date": "2026-12-07",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-07",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Report prep"
+  },
+  {
+    "date": "2026-12-08",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 11: Quality Analysis in Software Process:"
+  },
+  {
+    "date": "2026-12-08",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-08",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Report prep"
+  },
+  {
+    "date": "2026-12-09",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 11: Quality Analysis in Software Process:"
+  },
+  {
+    "date": "2026-12-09",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-10",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 11: Quality Analysis in Software Process:"
+  },
+  {
+    "date": "2026-12-10",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-11",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 11: Quality Analysis in Software Process:"
+  },
+  {
+    "date": "2026-12-11",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-12",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 11: Quality Analysis in Software Process:"
+  },
+  {
+    "date": "2026-12-12",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-13",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 11: Quality Analysis in Software Process:"
+  },
+  {
+    "date": "2026-12-13",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Week 11: Software Problem Analysis and Reporting"
+  },
+  {
+    "date": "2026-12-14",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 12: Retrospective in Software Development Team:"
+  },
+  {
+    "date": "2026-12-14",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 12: Quality Culture in doing V&V"
+  },
+  {
+    "date": "2026-12-14",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-14",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-14",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-15",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 12: Retrospective in Software Development Team:"
+  },
+  {
+    "date": "2026-12-15",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 12: Quality Culture in doing V&V"
+  },
+  {
+    "date": "2026-12-15",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-15",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-15",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-16",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 12: Retrospective in Software Development Team:"
+  },
+  {
+    "date": "2026-12-16",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 12: Quality Culture in doing V&V"
+  },
+  {
+    "date": "2026-12-16",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-16",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-16",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-17",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 12: Retrospective in Software Development Team:"
+  },
+  {
+    "date": "2026-12-17",
+    "start": "12:00",
+    "end": "12:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-17",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-17",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-18",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 12: Retrospective in Software Development Team:"
+  },
+  {
+    "date": "2026-12-18",
+    "start": "12:00",
+    "end": "12:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-18",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-18",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-19",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 12: Retrospective in Software Development Team:"
+  },
+  {
+    "date": "2026-12-19",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-19",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-19",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-20",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-20",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-21",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 13: Software Lifecycle Process Improvement:"
+  },
+  {
+    "date": "2026-12-21",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 13: Safety and Security in VnV"
+  },
+  {
+    "date": "2026-12-21",
+    "start": "16:00",
+    "end": "16:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-21",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-21",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-22",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 13: Software Lifecycle Process Improvement:"
+  },
+  {
+    "date": "2026-12-22",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 13: Safety and Security in VnV"
+  },
+  {
+    "date": "2026-12-22",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-22",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-22",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-23",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 13: Software Lifecycle Process Improvement:"
+  },
+  {
+    "date": "2026-12-23",
+    "start": "11:00",
+    "end": "11:50",
+    "subject": "DES3103",
+    "label": "Week 13: Safety and Security in VnV"
+  },
+  {
+    "date": "2026-12-23",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-23",
+    "start": "18:00",
+    "end": "18:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-23",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-24",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 13: Software Lifecycle Process Improvement:"
+  },
+  {
+    "date": "2026-12-24",
+    "start": "12:00",
+    "end": "12:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-24",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-24",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-25",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 13: Software Lifecycle Process Improvement:"
+  },
+  {
+    "date": "2026-12-25",
+    "start": "12:00",
+    "end": "12:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-25",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-25",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-26",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3083",
+    "label": "Week 13: Software Lifecycle Process Improvement:"
+  },
+  {
+    "date": "2026-12-26",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-26",
+    "start": "17:00",
+    "end": "17:50",
+    "subject": "DES3103",
+    "label": "Final Examination prep"
+  },
+  {
+    "date": "2026-12-27",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-28",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-28",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+  },
+  {
+    "date": "2026-12-29",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-29",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+  },
+  {
+    "date": "2026-12-30",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-30",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+  },
+  {
+    "date": "2026-12-31",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2026-12-31",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+  },
+  {
+    "date": "2027-01-01",
+    "start": "09:00",
+    "end": "09:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2027-01-01",
+    "start": "21:00",
+    "end": "21:50",
+    "subject": "DES3083",
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+  },
+  {
+    "date": "2027-01-02",
+    "start": "14:00",
+    "end": "14:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  },
+  {
+    "date": "2027-01-03",
+    "start": "15:00",
+    "end": "15:50",
+    "subject": "DES3103",
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+  }
+]
