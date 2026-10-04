@@ -1,0 +1,13 @@
+{
+  "pins": [
+    {
+      "date": "2026-10-14",
+      "start": "13:00",
+      "end": "13:50",
+      "subject": "DES3103",
+      "label": "Week 8: Manual Testing",
+      "kind": "study"
+    }
+  ],
+  "blocked_days": []
+}

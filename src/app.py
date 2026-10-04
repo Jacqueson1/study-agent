@@ -13,6 +13,7 @@ import streamlit as st
 
 from export_ics import DEFAULT_TZ, build_ics
 from extract import extract
+import agent
 import store
 from scheduler import DAYS
 
@@ -61,7 +62,7 @@ with st.sidebar:
         st.success("Saved")
 
 st.title("Study Scheduler")
-tab_pro, tab_ass, tab_sch = st.tabs(["1. Proformas", "2. Assessments", "3. Schedule"])
+tab_pro, tab_ass, tab_sch, tab_chat = st.tabs(["1. Proformas", "2. Assessments", "3. Schedule", "4. Chat"])
 
 # ---------- tab 1: proformas ----------
 with tab_pro:
@@ -143,12 +144,11 @@ with tab_sch:
         if st.button("Generate schedule", type="primary"):
             res = store.replan(plan_from)  # keeps pinned blocks and blocked days
             if res["ok"]:
-                st.session_state["blocks"] = res["blocks"]
                 st.session_state["short"] = res["unplaced"]
             else:
                 st.error(res["error"])
 
-        blocks = st.session_state.get("blocks") or store.load_schedule()
+        blocks = store.load_schedule()
         if blocks:
             c1, c2, c3 = st.columns(3)
             c1.metric("Study blocks", len(blocks))
@@ -175,3 +175,46 @@ with tab_sch:
             (OUT / "study_schedule.ics").write_text(ics, encoding="utf-8", newline="")
             st.download_button("Download .ics (Google Calendar)", ics,
                                file_name="study_schedule.ics", mime="text/calendar")
+
+# ---------- tab 4: chat ----------
+with tab_chat:
+    model = cfg.get("model", agent.DEFAULT_MODEL)
+    if "chat" not in st.session_state or st.session_state["chat"].day != date.today():
+        st.session_state["chat"] = agent.Chat(model)  # new day -> fresh date in the prompt
+    chat = st.session_state["chat"]
+
+    if not store.load_schedule():
+        st.info("Generate a schedule in tab 3 first.")
+    st.caption(f"Model: {model}. Changes ask for your approval before they are applied.")
+
+    for role, text in chat.display:
+        if role == "tool":
+            st.caption(f"tool: {text}")
+        else:
+            st.chat_message(role).write(text)
+
+    if chat.pending:
+        st.warning(chat.pending["text"])
+        ok_col, no_col, _ = st.columns([1, 1, 4])
+        if ok_col.button("Apply", type="primary"):
+            chat.resolve(True)
+            st.rerun()
+        if no_col.button("Cancel"):
+            chat.resolve(False)
+            st.rerun()
+
+    prompt = st.chat_input("e.g. move my first DES3103 block in week 6 to Saturday 2pm",
+                           disabled=chat.pending is not None)
+    if prompt:
+        with st.spinner("Thinking..."):
+            chat.send(prompt)
+        st.rerun()  # redraw so the Schedule tab shows any change
+
+    u_col, c_col, _ = st.columns([1, 1, 4])
+    if u_col.button("Undo last change"):
+        res = store.undo()
+        chat.note("Undo: " + (res.get("message") or res.get("error")))
+        st.rerun()
+    if c_col.button("Clear chat"):
+        st.session_state["chat"] = agent.Chat(model)
+        st.rerun()

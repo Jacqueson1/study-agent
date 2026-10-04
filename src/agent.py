@@ -62,36 +62,54 @@ DECLINED = {"ok": False, "error": "The user declined this change. Do not retry i
 
 
 # ---------- running a tool ----------
-def run_tool(name: str, args: dict, confirm) -> dict:
-    """Validate, ask the user to confirm changes, run, and shrink the result.
+CONFIRM_TEXT = {
+    "delete_event": "Delete event {block_id}",
+    "pin_block": "Pin block {block_id} (re-planning will keep it)",
+    "unpin_block": "Unpin block {block_id} (re-planning may move it)",
+    "clear_pins": "Unpin all study blocks",
+    "block_day": "Block {day} (no study) and re-plan its work onto other days",
+    "unblock_day": "Unblock {day} and re-plan",
+    "replan": "Re-plan the schedule from today (pinned blocks and blocked days are kept)",
+    "undo": "Undo the last change",
+}
 
-    confirm(text) -> bool is supplied by the caller (terminal now, Streamlit later).
-    """
+
+def _clean(name: str, args: dict):
+    """-> (function, cleaned args, error result or None)."""
     fn = FUNCS.get(name)
     if fn is None:
-        return {"ok": False, "error": f"Unknown tool '{name}'. Available: {', '.join(FUNCS)}."}
+        return None, None, {"ok": False, "error": f"Unknown tool '{name}'. Available: {', '.join(FUNCS)}."}
     allowed = set(inspect.signature(fn).parameters) - {"dry_run", "plan_from", "_record_undo"}
     args = {k: (v.strip() if isinstance(v, str) else v) for k, v in (args or {}).items() if k in allowed}
     if "week" in args:
         try:
             args["week"] = int(args["week"])
         except (TypeError, ValueError):
-            return {"ok": False, "error": "week must be a number."}
+            return None, None, {"ok": False, "error": "week must be a number."}
+    return fn, args, None
 
+
+def _preview(name: str, fn, args: dict):
+    """-> (error result or None, text to confirm or None). Read-only tools need no confirmation."""
     try:
         if name in PREVIEWABLE:
-            preview = fn(**args, dry_run=True)
-            if not preview["ok"]:
-                return preview  # the model sees the reason and can correct itself
-            if not confirm(preview["preview"]):
-                return DECLINED
-        elif name not in READ_ONLY:
-            if not confirm(f"{name}({', '.join(f'{k}={v}' for k, v in args.items())})"):
-                return DECLINED
+            p = fn(**args, dry_run=True)
+            return (p, None) if not p["ok"] else (None, p["preview"])
+    except TypeError as e:
+        return {"ok": False, "error": f"Bad arguments for {name}: {e}"}, None
+    if name in READ_ONLY:
+        return None, None
+    try:
+        return None, CONFIRM_TEXT[name].format(**args)
+    except (KeyError, IndexError):
+        return None, f"{name}({', '.join(f'{k}={v}' for k, v in args.items())})"
+
+
+def _execute(name: str, fn, args: dict) -> dict:
+    try:
         result = fn(**args)
     except TypeError as e:  # missing or wrong arguments
         return {"ok": False, "error": f"Bad arguments for {name}: {e}"}
-
     # keep the model's context small
     if name == "replan" and result.get("ok"):
         result = {"ok": True, "message": result["message"], "unplaced": result["unplaced"][:8]}
@@ -124,20 +142,74 @@ Rules:
 
 
 # ---------- chat ----------
-def reply(messages: list, user_text: str, confirm, model: str) -> str:
-    """Add the user message, let the model use tools, return its final answer."""
-    messages.append({"role": "user", "content": user_text})
-    for _ in range(MAX_STEPS):
-        resp = ollama.chat(model=model, messages=messages, tools=TOOLS)
-        msg = resp.message
-        messages.append(msg)
-        if not msg.tool_calls:
-            return msg.content or ""
-        for call in msg.tool_calls:
-            result = run_tool(call.function.name, dict(call.function.arguments or {}), confirm)
-            messages.append({"role": "tool", "tool_name": call.function.name,
-                             "content": json.dumps(result)})
-    return "I stopped after too many steps. Please try a simpler request."
+class Chat:
+    """One conversation. Works for the terminal and for Streamlit.
+
+    send(text) / resolve(approve) return one of:
+      {"type": "text", "text": ...}      final answer
+      {"type": "confirm", "text": ...}   a change waits for approve/decline -> call resolve()
+    """
+
+    def __init__(self, model: str):
+        self.model = model
+        self.day = date.today()
+        self.messages: list = [{"role": "system", "content": system_prompt()}]
+        self.display: list[tuple[str, str]] = []  # (role, text) for the UI
+        self.queue: list = []                     # tool calls not handled yet
+        self.pending: dict | None = None          # change waiting for confirmation
+
+    def send(self, text: str) -> dict:
+        self.display.append(("user", text))
+        self.messages.append({"role": "user", "content": text})
+        return self._advance()
+
+    def resolve(self, approve: bool) -> dict:
+        p, self.pending = self.pending, None
+        if p is None:
+            return {"type": "text", "text": ""}
+        result = _execute(p["name"], p["fn"], p["args"]) if approve else DECLINED
+        self._record(p["name"], result)
+        return self._advance()
+
+    def note(self, text: str) -> None:
+        """Tell the model about something that happened outside the chat (e.g. Undo button)."""
+        self.messages.append({"role": "user", "content": f"[note] {text}"})
+        self.display.append(("tool", text))
+
+    def _record(self, name: str, result: dict) -> None:
+        self.messages.append({"role": "tool", "tool_name": name, "content": json.dumps(result)})
+        self.display.append(("tool", f"{name}: " + (result.get("message") or result.get("error")
+                                                       or ("done" if result.get("ok") else "failed"))))
+
+    def _advance(self) -> dict:
+        for _ in range(MAX_STEPS):
+            if not self.queue:
+                try:
+                    msg = ollama.chat(model=self.model, messages=self.messages, tools=TOOLS).message
+                except Exception as e:  # noqa: BLE001  (Ollama not running, model missing...)
+                    return self._say(f"Could not reach the model: {e}")
+                self.messages.append(msg)
+                if not msg.tool_calls:
+                    return self._say(msg.content or "")
+                self.queue = list(msg.tool_calls)
+            while self.queue:
+                call = self.queue.pop(0)
+                name, raw = call.function.name, dict(call.function.arguments or {})
+                fn, args, err = _clean(name, raw)
+                if err is None:
+                    err, text = _preview(name, fn, args)
+                    if err is None and text:
+                        self.pending = {"name": name, "fn": fn, "args": args, "text": text}
+                        return {"type": "confirm", "text": text}
+                    if err is None:
+                        err = _execute(name, fn, args)
+                self._record(name, err)
+        self.queue = []
+        return self._say("I stopped after too many steps. Please try a simpler request.")
+
+    def _say(self, text: str) -> dict:
+        self.display.append(("assistant", text))
+        return {"type": "text", "text": text}
 
 
 def ask_terminal(text: str) -> bool:
@@ -153,14 +225,18 @@ def main():
     if not store.load_schedule():
         print("No schedule yet. Say 'replan' to build one, or generate it in the app first.")
 
-    messages = [{"role": "system", "content": system_prompt()}]
+    chat = Chat(model)
     print(f"Study agent ({model}). Type 'exit' to quit.")
     while True:
         text = input("\nYou: ").strip()
         if text.lower() in ("exit", "quit"):
             break
-        if text:
-            print("\nAgent:", reply(messages, text, ask_terminal, model))
+        if not text:
+            continue
+        out = chat.send(text)
+        while out["type"] == "confirm":
+            out = chat.resolve(ask_terminal(out["text"]))
+        print("\nAgent:", out["text"])
 
 
 if __name__ == "__main__":

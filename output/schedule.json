@@ -4,1931 +4,2759 @@
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 1: Introduction to Software Engineering Process:"
+    "label": "Week 1: Introduction to Software Engineering Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B001"
   },
   {
     "date": "2026-10-03",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3083",
-    "label": "Week 1: Introduction to Software Engineering Process:"
+    "label": "Week 1: Introduction to Software Engineering Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B002"
   },
   {
     "date": "2026-10-03",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3083",
-    "label": "Week 1: Introduction to Software Engineering Process:"
+    "label": "Week 1: Introduction to Software Engineering Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B003"
   },
   {
     "date": "2026-10-03",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 1: Introduction to Software Verification & Validation (V&V) I"
+    "label": "Week 1: Introduction to Software Verification & Validation (V&V) I",
+    "pinned": false,
+    "kind": "study",
+    "id": "B004"
   },
   {
     "date": "2026-10-03",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 1: Introduction to Software Verification & Validation (V&V) I"
+    "label": "Week 1: Introduction to Software Verification & Validation (V&V) I",
+    "pinned": false,
+    "kind": "study",
+    "id": "B005"
   },
   {
     "date": "2026-10-04",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 1: Introduction to Software Engineering Process:"
+    "label": "Week 1: Introduction to Software Engineering Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B006"
   },
   {
     "date": "2026-10-04",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Week 1: Introduction to Software Engineering Process:"
+    "label": "Week 1: Introduction to Software Engineering Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B007"
   },
   {
     "date": "2026-10-05",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 2: Software Development Process Models:"
+    "label": "Week 2: Software Development Process Models:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B008"
   },
   {
     "date": "2026-10-05",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3083",
-    "label": "Week 2: Software Development Process Models:"
+    "label": "Week 2: Software Development Process Models:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B009"
   },
   {
     "date": "2026-10-05",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II"
+    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II",
+    "pinned": false,
+    "kind": "study",
+    "id": "B010"
   },
   {
     "date": "2026-10-06",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 2: Software Development Process Models:"
+    "label": "Week 2: Software Development Process Models:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B011"
   },
   {
     "date": "2026-10-06",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II"
+    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II",
+    "pinned": false,
+    "kind": "study",
+    "id": "B012"
   },
   {
     "date": "2026-10-07",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 2: Software Development Process Models:"
+    "label": "Week 2: Software Development Process Models:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B013"
   },
   {
     "date": "2026-10-07",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II"
+    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II",
+    "pinned": false,
+    "kind": "study",
+    "id": "B014"
   },
   {
     "date": "2026-10-08",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 2: Software Development Process Models:"
+    "label": "Week 2: Software Development Process Models:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B015"
   },
   {
     "date": "2026-10-08",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II"
+    "label": "Week 2: Introduction to Software Verification & Validation (V&V) Session II",
+    "pinned": false,
+    "kind": "study",
+    "id": "B016"
   },
   {
     "date": "2026-10-09",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3083",
-    "label": "Week 2: Software Development Process Models:"
+    "label": "Week 2: Software Development Process Models:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B017"
   },
   {
     "date": "2026-10-10",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3083",
-    "label": "Week 2: Software Development Process Models:"
+    "label": "Week 2: Software Development Process Models:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B018"
   },
   {
     "date": "2026-10-11",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3083",
-    "label": "Week 2: Software Development Process Models:"
+    "label": "Week 2: Software Development Process Models:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B019"
   },
   {
     "date": "2026-10-12",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 3: Agile and Scrum Process:"
+    "label": "Week 3: Agile and Scrum Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B020"
   },
   {
     "date": "2026-10-12",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 3: Managing V&V with SQA"
+    "label": "Week 3: Managing V&V with SQA",
+    "pinned": false,
+    "kind": "study",
+    "id": "B021"
   },
   {
     "date": "2026-10-12",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3083",
-    "label": "Online Quiz prep"
+    "label": "Online Quiz prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B022"
   },
   {
     "date": "2026-10-12",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Online Quiz prep"
+    "label": "Online Quiz prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B023"
   },
   {
     "date": "2026-10-12",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #3 prep"
+    "label": "Group #3 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B024"
   },
   {
     "date": "2026-10-13",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 3: Agile and Scrum Process:"
+    "label": "Week 3: Agile and Scrum Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B025"
   },
   {
     "date": "2026-10-13",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 3: Managing V&V with SQA"
+    "label": "Week 3: Managing V&V with SQA",
+    "pinned": false,
+    "kind": "study",
+    "id": "B026"
   },
   {
     "date": "2026-10-13",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3083",
-    "label": "Online Quiz prep"
+    "label": "Online Quiz prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B027"
   },
   {
     "date": "2026-10-13",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Online Quiz prep"
+    "label": "Online Quiz prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B028"
   },
   {
     "date": "2026-10-13",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #3 prep"
+    "label": "Group #3 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B029"
   },
   {
     "date": "2026-10-14",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 3: Agile and Scrum Process:"
+    "label": "Week 3: Agile and Scrum Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B030"
   },
   {
     "date": "2026-10-14",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 3: Managing V&V with SQA"
+    "label": "Week 3: Managing V&V with SQA",
+    "pinned": false,
+    "kind": "study",
+    "id": "B031"
+  },
+  {
+    "date": "2026-10-14",
+    "start": "13:00",
+    "end": "13:50",
+    "subject": "DES3103",
+    "label": "Week 8: Manual Testing",
+    "pinned": true,
+    "kind": "study",
+    "id": "B032"
   },
   {
     "date": "2026-10-14",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3083",
-    "label": "Online Quiz prep"
+    "label": "Online Quiz prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B033"
   },
   {
     "date": "2026-10-14",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Online Quiz prep"
+    "label": "Online Quiz prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B034"
   },
   {
     "date": "2026-10-14",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #3 prep"
+    "label": "Group #3 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B035"
   },
   {
     "date": "2026-10-15",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3083",
-    "label": "Week 3: Agile and Scrum Process:"
+    "label": "Week 3: Agile and Scrum Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B036"
   },
   {
     "date": "2026-10-16",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3083",
-    "label": "Week 3: Agile and Scrum Process:"
+    "label": "Week 3: Agile and Scrum Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B037"
   },
   {
     "date": "2026-10-17",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3083",
-    "label": "Week 3: Agile and Scrum Process:"
+    "label": "Week 3: Agile and Scrum Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B038"
   },
   {
     "date": "2026-10-19",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 4: Selecting an Appropriate Process Model:"
+    "label": "Week 4: Selecting an Appropriate Process Model:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B039"
   },
   {
     "date": "2026-10-19",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3083",
-    "label": "Week 4: Selecting an Appropriate Process Model:"
+    "label": "Week 4: Selecting an Appropriate Process Model:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B040"
   },
   {
     "date": "2026-10-19",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 4: Quality metrics or attributes in V&V"
+    "label": "Week 4: Quality metrics or attributes in V&V",
+    "pinned": false,
+    "kind": "study",
+    "id": "B041"
   },
   {
     "date": "2026-10-19",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B042"
   },
   {
     "date": "2026-10-20",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 4: Selecting an Appropriate Process Model:"
+    "label": "Week 4: Selecting an Appropriate Process Model:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B043"
   },
   {
     "date": "2026-10-20",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 4: Quality metrics or attributes in V&V"
+    "label": "Week 4: Quality metrics or attributes in V&V",
+    "pinned": false,
+    "kind": "study",
+    "id": "B044"
   },
   {
     "date": "2026-10-20",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B045"
   },
   {
     "date": "2026-10-21",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 4: Selecting an Appropriate Process Model:"
+    "label": "Week 4: Selecting an Appropriate Process Model:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B046"
   },
   {
     "date": "2026-10-21",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 4: Quality metrics or attributes in V&V"
+    "label": "Week 4: Quality metrics or attributes in V&V",
+    "pinned": false,
+    "kind": "study",
+    "id": "B047"
   },
   {
     "date": "2026-10-21",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B048"
   },
   {
     "date": "2026-10-22",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 4: Selecting an Appropriate Process Model:"
+    "label": "Week 4: Selecting an Appropriate Process Model:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B049"
   },
   {
     "date": "2026-10-22",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 4: Quality metrics or attributes in V&V"
+    "label": "Week 4: Quality metrics or attributes in V&V",
+    "pinned": false,
+    "kind": "study",
+    "id": "B050"
   },
   {
     "date": "2026-10-22",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B051"
   },
   {
     "date": "2026-10-23",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 4: Selecting an Appropriate Process Model:"
+    "label": "Week 4: Selecting an Appropriate Process Model:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B052"
   },
   {
     "date": "2026-10-23",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B053"
   },
   {
     "date": "2026-10-24",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 4: Selecting an Appropriate Process Model:"
+    "label": "Week 4: Selecting an Appropriate Process Model:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B054"
   },
   {
     "date": "2026-10-24",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B055"
   },
   {
     "date": "2026-10-25",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 4: Selecting an Appropriate Process Model:"
+    "label": "Week 4: Selecting an Appropriate Process Model:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B056"
   },
   {
     "date": "2026-10-25",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B057"
   },
   {
     "date": "2026-10-26",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 5: Software Process Roles and Responsibilities"
+    "label": "Week 5: Software Process Roles and Responsibilities",
+    "pinned": false,
+    "kind": "study",
+    "id": "B058"
   },
   {
     "date": "2026-10-26",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 5: Software Reviews"
+    "label": "Week 5: Software Reviews",
+    "pinned": false,
+    "kind": "study",
+    "id": "B059"
   },
   {
     "date": "2026-10-26",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B060"
   },
   {
     "date": "2026-10-26",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B061"
   },
   {
     "date": "2026-10-26",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group prep"
+    "label": "Group prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B062"
   },
   {
     "date": "2026-10-27",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 5: Software Process Roles and Responsibilities"
+    "label": "Week 5: Software Process Roles and Responsibilities",
+    "pinned": false,
+    "kind": "study",
+    "id": "B063"
   },
   {
     "date": "2026-10-27",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 5: Software Reviews"
+    "label": "Week 5: Software Reviews",
+    "pinned": false,
+    "kind": "study",
+    "id": "B064"
   },
   {
     "date": "2026-10-27",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B065"
   },
   {
     "date": "2026-10-27",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B066"
   },
   {
     "date": "2026-10-27",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group prep"
+    "label": "Group prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B067"
   },
   {
     "date": "2026-10-28",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 5: Software Process Roles and Responsibilities"
+    "label": "Week 5: Software Process Roles and Responsibilities",
+    "pinned": false,
+    "kind": "study",
+    "id": "B068"
   },
   {
     "date": "2026-10-28",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 5: Software Reviews"
+    "label": "Week 5: Software Reviews",
+    "pinned": false,
+    "kind": "study",
+    "id": "B069"
   },
   {
     "date": "2026-10-28",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B070"
   },
   {
     "date": "2026-10-28",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B071"
   },
   {
     "date": "2026-10-28",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group prep"
+    "label": "Group prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B072"
   },
   {
     "date": "2026-10-29",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 5: Software Process Roles and Responsibilities"
+    "label": "Week 5: Software Process Roles and Responsibilities",
+    "pinned": false,
+    "kind": "study",
+    "id": "B073"
   },
   {
     "date": "2026-10-29",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 5: Software Reviews"
+    "label": "Week 5: Software Reviews",
+    "pinned": false,
+    "kind": "study",
+    "id": "B074"
   },
   {
     "date": "2026-10-29",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B075"
   },
   {
     "date": "2026-10-29",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B076"
   },
   {
     "date": "2026-10-29",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group prep"
+    "label": "Group prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B077"
   },
   {
     "date": "2026-10-30",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 5: Software Process Roles and Responsibilities"
+    "label": "Week 5: Software Process Roles and Responsibilities",
+    "pinned": false,
+    "kind": "study",
+    "id": "B078"
   },
   {
     "date": "2026-10-30",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 5: Software Reviews"
+    "label": "Week 5: Software Reviews",
+    "pinned": false,
+    "kind": "study",
+    "id": "B079"
   },
   {
     "date": "2026-10-30",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B080"
   },
   {
     "date": "2026-10-30",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B081"
   },
   {
     "date": "2026-10-30",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group prep"
+    "label": "Group prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B082"
   },
   {
     "date": "2026-10-31",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 5: Software Process Roles and Responsibilities"
+    "label": "Week 5: Software Process Roles and Responsibilities",
+    "pinned": false,
+    "kind": "study",
+    "id": "B083"
   },
   {
     "date": "2026-10-31",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 5: Software Reviews"
+    "label": "Week 5: Software Reviews",
+    "pinned": false,
+    "kind": "study",
+    "id": "B084"
   },
   {
     "date": "2026-10-31",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B085"
   },
   {
     "date": "2026-10-31",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B086"
   },
   {
     "date": "2026-10-31",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3083",
-    "label": "Group prep"
+    "label": "Group prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B087"
   },
   {
     "date": "2026-11-01",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3103",
-    "label": "Week 6: Quality Control: Software Testing"
+    "label": "Week 6: Quality Control: Software Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B088"
   },
   {
     "date": "2026-11-01",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B089"
   },
   {
     "date": "2026-11-02",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 6: Task Planning and Team Commitment:"
+    "label": "Week 6: Task Planning and Team Commitment:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B090"
   },
   {
     "date": "2026-11-02",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3083",
-    "label": "Week 6: Task Planning and Team Commitment:"
+    "label": "Week 6: Task Planning and Team Commitment:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B091"
   },
   {
     "date": "2026-11-02",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B092"
   },
   {
     "date": "2026-11-02",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B093"
   },
   {
     "date": "2026-11-02",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group prep"
+    "label": "Group prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B094"
   },
   {
     "date": "2026-11-03",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 6: Task Planning and Team Commitment:"
+    "label": "Week 6: Task Planning and Team Commitment:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B095"
   },
   {
     "date": "2026-11-03",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B096"
   },
   {
     "date": "2026-11-03",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B097"
   },
   {
     "date": "2026-11-03",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group prep"
+    "label": "Group prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B098"
   },
   {
     "date": "2026-11-04",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 6: Task Planning and Team Commitment:"
+    "label": "Week 6: Task Planning and Team Commitment:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B099"
   },
   {
     "date": "2026-11-04",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B100"
   },
   {
     "date": "2026-11-04",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B101"
   },
   {
     "date": "2026-11-05",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 6: Task Planning and Team Commitment:"
+    "label": "Week 6: Task Planning and Team Commitment:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B102"
   },
   {
     "date": "2026-11-05",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B103"
   },
   {
     "date": "2026-11-05",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B104"
   },
   {
     "date": "2026-11-06",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 6: Task Planning and Team Commitment:"
+    "label": "Week 6: Task Planning and Team Commitment:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B105"
   },
   {
     "date": "2026-11-06",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 7: Human-Computer-Interface (HCI) Testing"
+    "label": "Week 7: Human-Computer-Interface (HCI) Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B106"
   },
   {
     "date": "2026-11-06",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B107"
   },
   {
     "date": "2026-11-07",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 6: Task Planning and Team Commitment:"
-  },
-  {
-    "date": "2026-11-07",
-    "start": "17:00",
-    "end": "17:50",
-    "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 6: Task Planning and Team Commitment:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B108"
   },
   {
     "date": "2026-11-08",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 6: Task Planning and Team Commitment:"
+    "label": "Week 6: Task Planning and Team Commitment:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B109"
   },
   {
     "date": "2026-11-08",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B110"
   },
   {
     "date": "2026-11-09",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 7: Software Process Execution and Team Coordination:"
+    "label": "Week 7: Software Process Execution and Team Coordination:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B111"
   },
   {
     "date": "2026-11-09",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3083",
-    "label": "Week 7: Software Process Execution and Team Coordination:"
+    "label": "Week 7: Software Process Execution and Team Coordination:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B112"
   },
   {
     "date": "2026-11-09",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B113"
   },
   {
     "date": "2026-11-10",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 7: Software Process Execution and Team Coordination:"
+    "label": "Week 7: Software Process Execution and Team Coordination:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B114"
   },
   {
     "date": "2026-11-10",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B115"
   },
   {
     "date": "2026-11-11",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 7: Software Process Execution and Team Coordination:"
+    "label": "Week 7: Software Process Execution and Team Coordination:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B116"
   },
   {
     "date": "2026-11-11",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B117"
   },
   {
     "date": "2026-11-12",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 7: Software Process Execution and Team Coordination:"
+    "label": "Week 7: Software Process Execution and Team Coordination:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B118"
   },
   {
     "date": "2026-11-12",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B119"
   },
   {
     "date": "2026-11-13",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 7: Software Process Execution and Team Coordination:"
+    "label": "Week 7: Software Process Execution and Team Coordination:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B120"
   },
   {
     "date": "2026-11-13",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B121"
   },
   {
     "date": "2026-11-14",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 7: Software Process Execution and Team Coordination:"
+    "label": "Week 7: Software Process Execution and Team Coordination:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B122"
   },
   {
     "date": "2026-11-14",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B123"
   },
   {
     "date": "2026-11-15",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 7: Software Process Execution and Team Coordination:"
+    "label": "Week 7: Software Process Execution and Team Coordination:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B124"
   },
   {
     "date": "2026-11-15",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 8: Manual Testing"
+    "label": "Week 8: Manual Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B125"
   },
   {
     "date": "2026-11-16",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 8: Software Development Documentation:"
+    "label": "Week 8: Software Development Documentation:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B126"
   },
   {
     "date": "2026-11-16",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Debate prep"
+    "label": "Debate prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B127"
   },
   {
     "date": "2026-11-17",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 8: Software Development Documentation:"
+    "label": "Week 8: Software Development Documentation:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B128"
   },
   {
     "date": "2026-11-17",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Debate prep"
+    "label": "Debate prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B129"
   },
   {
     "date": "2026-11-18",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 8: Software Development Documentation:"
+    "label": "Week 8: Software Development Documentation:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B130"
   },
   {
     "date": "2026-11-18",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Debate prep"
+    "label": "Debate prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B131"
   },
   {
     "date": "2026-11-19",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 8: Software Development Documentation:"
+    "label": "Week 8: Software Development Documentation:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B132"
   },
   {
     "date": "2026-11-19",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Debate prep"
+    "label": "Debate prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B133"
   },
   {
     "date": "2026-11-20",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 8: Software Development Documentation:"
+    "label": "Week 8: Software Development Documentation:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B134"
   },
   {
     "date": "2026-11-20",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Debate prep"
+    "label": "Debate prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B135"
   },
   {
     "date": "2026-11-21",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 8: Software Development Documentation:"
+    "label": "Week 8: Software Development Documentation:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B136"
   },
   {
     "date": "2026-11-21",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Debate prep"
+    "label": "Debate prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B137"
   },
   {
     "date": "2026-11-22",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Debate prep"
+    "label": "Debate prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B138"
   },
   {
     "date": "2026-11-23",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 9: Monitoring Project Progress Data:"
+    "label": "Week 9: Monitoring Project Progress Data:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B139"
   },
   {
     "date": "2026-11-23",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 9: Automation Testing"
+    "label": "Week 9: Automation Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B140"
   },
   {
     "date": "2026-11-23",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3103",
-    "label": "Debate prep"
+    "label": "Debate prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B141"
   },
   {
     "date": "2026-11-23",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B142"
   },
   {
     "date": "2026-11-23",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B143"
   },
   {
     "date": "2026-11-24",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 9: Monitoring Project Progress Data:"
+    "label": "Week 9: Monitoring Project Progress Data:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B144"
   },
   {
     "date": "2026-11-24",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 9: Automation Testing"
+    "label": "Week 9: Automation Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B145"
   },
   {
     "date": "2026-11-24",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B146"
   },
   {
     "date": "2026-11-24",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B147"
   },
   {
     "date": "2026-11-25",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 9: Monitoring Project Progress Data:"
+    "label": "Week 9: Monitoring Project Progress Data:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B148"
   },
   {
     "date": "2026-11-25",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 9: Automation Testing"
+    "label": "Week 9: Automation Testing",
+    "pinned": false,
+    "kind": "study",
+    "id": "B149"
   },
   {
     "date": "2026-11-25",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B150"
   },
   {
     "date": "2026-11-25",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B151"
   },
   {
     "date": "2026-11-26",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 9: Monitoring Project Progress Data:"
+    "label": "Week 9: Monitoring Project Progress Data:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B152"
   },
   {
     "date": "2026-11-26",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B153"
   },
   {
     "date": "2026-11-26",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B154"
   },
   {
     "date": "2026-11-27",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 9: Monitoring Project Progress Data:"
+    "label": "Week 9: Monitoring Project Progress Data:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B155"
   },
   {
     "date": "2026-11-27",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B156"
   },
   {
     "date": "2026-11-27",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B157"
   },
   {
     "date": "2026-11-28",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 9: Monitoring Project Progress Data:"
+    "label": "Week 9: Monitoring Project Progress Data:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B158"
   },
   {
     "date": "2026-11-28",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B159"
   },
   {
     "date": "2026-11-28",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B160"
   },
   {
     "date": "2026-11-29",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B161"
   },
   {
     "date": "2026-11-29",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B162"
   },
   {
     "date": "2026-11-30",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B163"
   },
   {
     "date": "2026-11-30",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B164"
   },
   {
     "date": "2026-11-30",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 10: Quality Maturity Models"
+    "label": "Week 10: Quality Maturity Models",
+    "pinned": false,
+    "kind": "study",
+    "id": "B165"
   },
   {
     "date": "2026-11-30",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B166"
   },
   {
     "date": "2026-11-30",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B167"
   },
   {
     "date": "2026-11-30",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Report prep"
+    "label": "Final Report prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B168"
   },
   {
     "date": "2026-12-01",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B169"
   },
   {
     "date": "2026-12-01",
     "start": "10:00",
     "end": "10:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B170"
   },
   {
     "date": "2026-12-01",
     "start": "13:00",
     "end": "13:50",
     "subject": "DES3103",
-    "label": "Week 10: Quality Maturity Models"
+    "label": "Week 10: Quality Maturity Models",
+    "pinned": false,
+    "kind": "study",
+    "id": "B171"
   },
   {
     "date": "2026-12-01",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B172"
   },
   {
     "date": "2026-12-01",
     "start": "19:00",
     "end": "19:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B173"
   },
   {
     "date": "2026-12-01",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Report prep"
+    "label": "Final Report prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B174"
   },
   {
     "date": "2026-12-02",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B175"
   },
   {
     "date": "2026-12-02",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 10: Quality Maturity Models"
+    "label": "Week 10: Quality Maturity Models",
+    "pinned": false,
+    "kind": "study",
+    "id": "B176"
   },
   {
     "date": "2026-12-02",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B177"
   },
   {
     "date": "2026-12-02",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B178"
   },
   {
     "date": "2026-12-02",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Report prep"
+    "label": "Final Report prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B179"
   },
   {
     "date": "2026-12-03",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B180"
   },
   {
     "date": "2026-12-03",
     "start": "12:00",
     "end": "12:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B181"
   },
   {
     "date": "2026-12-03",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3083",
-    "label": "Group #2 prep"
+    "label": "Group #2 prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B182"
   },
   {
     "date": "2026-12-03",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Report prep"
+    "label": "Final Report prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B183"
   },
   {
     "date": "2026-12-04",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B184"
   },
   {
     "date": "2026-12-04",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B185"
   },
   {
     "date": "2026-12-04",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Report prep"
+    "label": "Final Report prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B186"
   },
   {
     "date": "2026-12-05",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B187"
   },
   {
     "date": "2026-12-05",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B188"
   },
   {
     "date": "2026-12-05",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Final Report prep"
+    "label": "Final Report prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B189"
   },
   {
     "date": "2026-12-06",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 10: Software Process Analysis Approaches:"
+    "label": "Week 10: Software Process Analysis Approaches:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B190"
   },
   {
     "date": "2026-12-06",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B191"
   },
   {
     "date": "2026-12-07",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 11: Quality Analysis in Software Process:"
+    "label": "Week 11: Quality Analysis in Software Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B192"
   },
   {
     "date": "2026-12-07",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3083",
-    "label": "Week 11: Quality Analysis in Software Process:"
+    "label": "Week 11: Quality Analysis in Software Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B193"
   },
   {
     "date": "2026-12-07",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B194"
   },
   {
     "date": "2026-12-07",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Report prep"
+    "label": "Final Report prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B195"
   },
   {
     "date": "2026-12-08",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 11: Quality Analysis in Software Process:"
+    "label": "Week 11: Quality Analysis in Software Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B196"
   },
   {
     "date": "2026-12-08",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B197"
   },
   {
     "date": "2026-12-08",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Report prep"
+    "label": "Final Report prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B198"
   },
   {
     "date": "2026-12-09",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 11: Quality Analysis in Software Process:"
+    "label": "Week 11: Quality Analysis in Software Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B199"
   },
   {
     "date": "2026-12-09",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B200"
   },
   {
     "date": "2026-12-10",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 11: Quality Analysis in Software Process:"
+    "label": "Week 11: Quality Analysis in Software Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B201"
   },
   {
     "date": "2026-12-10",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B202"
   },
   {
     "date": "2026-12-11",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 11: Quality Analysis in Software Process:"
+    "label": "Week 11: Quality Analysis in Software Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B203"
   },
   {
     "date": "2026-12-11",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B204"
   },
   {
     "date": "2026-12-12",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 11: Quality Analysis in Software Process:"
+    "label": "Week 11: Quality Analysis in Software Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B205"
   },
   {
     "date": "2026-12-12",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B206"
   },
   {
     "date": "2026-12-13",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 11: Quality Analysis in Software Process:"
+    "label": "Week 11: Quality Analysis in Software Process:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B207"
   },
   {
     "date": "2026-12-13",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Week 11: Software Problem Analysis and Reporting"
+    "label": "Week 11: Software Problem Analysis and Reporting",
+    "pinned": false,
+    "kind": "study",
+    "id": "B208"
   },
   {
     "date": "2026-12-14",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 12: Retrospective in Software Development Team:"
+    "label": "Week 12: Retrospective in Software Development Team:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B209"
   },
   {
     "date": "2026-12-14",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 12: Quality Culture in doing V&V"
+    "label": "Week 12: Quality Culture in doing V&V",
+    "pinned": false,
+    "kind": "study",
+    "id": "B210"
   },
   {
     "date": "2026-12-14",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B211"
   },
   {
     "date": "2026-12-14",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B212"
   },
   {
     "date": "2026-12-14",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B213"
   },
   {
     "date": "2026-12-15",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 12: Retrospective in Software Development Team:"
+    "label": "Week 12: Retrospective in Software Development Team:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B214"
   },
   {
     "date": "2026-12-15",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 12: Quality Culture in doing V&V"
+    "label": "Week 12: Quality Culture in doing V&V",
+    "pinned": false,
+    "kind": "study",
+    "id": "B215"
   },
   {
     "date": "2026-12-15",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B216"
   },
   {
     "date": "2026-12-15",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B217"
   },
   {
     "date": "2026-12-15",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B218"
   },
   {
     "date": "2026-12-16",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 12: Retrospective in Software Development Team:"
+    "label": "Week 12: Retrospective in Software Development Team:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B219"
   },
   {
     "date": "2026-12-16",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 12: Quality Culture in doing V&V"
+    "label": "Week 12: Quality Culture in doing V&V",
+    "pinned": false,
+    "kind": "study",
+    "id": "B220"
   },
   {
     "date": "2026-12-16",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B221"
   },
   {
     "date": "2026-12-16",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B222"
   },
   {
     "date": "2026-12-16",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B223"
   },
   {
     "date": "2026-12-17",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 12: Retrospective in Software Development Team:"
+    "label": "Week 12: Retrospective in Software Development Team:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B224"
   },
   {
     "date": "2026-12-17",
     "start": "12:00",
     "end": "12:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B225"
   },
   {
     "date": "2026-12-17",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B226"
   },
   {
     "date": "2026-12-17",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B227"
   },
   {
     "date": "2026-12-18",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 12: Retrospective in Software Development Team:"
+    "label": "Week 12: Retrospective in Software Development Team:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B228"
   },
   {
     "date": "2026-12-18",
     "start": "12:00",
     "end": "12:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B229"
   },
   {
     "date": "2026-12-18",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B230"
   },
   {
     "date": "2026-12-18",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B231"
   },
   {
     "date": "2026-12-19",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 12: Retrospective in Software Development Team:"
+    "label": "Week 12: Retrospective in Software Development Team:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B232"
   },
   {
     "date": "2026-12-19",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B233"
   },
   {
     "date": "2026-12-19",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B234"
   },
   {
     "date": "2026-12-19",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B235"
   },
   {
     "date": "2026-12-20",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B236"
   },
   {
     "date": "2026-12-20",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B237"
   },
   {
     "date": "2026-12-21",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 13: Software Lifecycle Process Improvement:"
+    "label": "Week 13: Software Lifecycle Process Improvement:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B238"
   },
   {
     "date": "2026-12-21",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 13: Safety and Security in VnV"
+    "label": "Week 13: Safety and Security in VnV",
+    "pinned": false,
+    "kind": "study",
+    "id": "B239"
   },
   {
     "date": "2026-12-21",
     "start": "16:00",
     "end": "16:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B240"
   },
   {
     "date": "2026-12-21",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B241"
   },
   {
     "date": "2026-12-21",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B242"
   },
   {
     "date": "2026-12-22",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 13: Software Lifecycle Process Improvement:"
+    "label": "Week 13: Software Lifecycle Process Improvement:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B243"
   },
   {
     "date": "2026-12-22",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 13: Safety and Security in VnV"
+    "label": "Week 13: Safety and Security in VnV",
+    "pinned": false,
+    "kind": "study",
+    "id": "B244"
   },
   {
     "date": "2026-12-22",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B245"
   },
   {
     "date": "2026-12-22",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B246"
   },
   {
     "date": "2026-12-22",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B247"
   },
   {
     "date": "2026-12-23",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 13: Software Lifecycle Process Improvement:"
+    "label": "Week 13: Software Lifecycle Process Improvement:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B248"
   },
   {
     "date": "2026-12-23",
     "start": "11:00",
     "end": "11:50",
     "subject": "DES3103",
-    "label": "Week 13: Safety and Security in VnV"
+    "label": "Week 13: Safety and Security in VnV",
+    "pinned": false,
+    "kind": "study",
+    "id": "B249"
   },
   {
     "date": "2026-12-23",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B250"
   },
   {
     "date": "2026-12-23",
     "start": "18:00",
     "end": "18:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B251"
   },
   {
     "date": "2026-12-23",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B252"
   },
   {
     "date": "2026-12-24",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 13: Software Lifecycle Process Improvement:"
+    "label": "Week 13: Software Lifecycle Process Improvement:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B253"
   },
   {
     "date": "2026-12-24",
     "start": "12:00",
     "end": "12:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B254"
   },
   {
     "date": "2026-12-24",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B255"
   },
   {
     "date": "2026-12-24",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B256"
   },
   {
     "date": "2026-12-25",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 13: Software Lifecycle Process Improvement:"
+    "label": "Week 13: Software Lifecycle Process Improvement:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B257"
   },
   {
     "date": "2026-12-25",
     "start": "12:00",
     "end": "12:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B258"
   },
   {
     "date": "2026-12-25",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B259"
   },
   {
     "date": "2026-12-25",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B260"
   },
   {
     "date": "2026-12-26",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3083",
-    "label": "Week 13: Software Lifecycle Process Improvement:"
+    "label": "Week 13: Software Lifecycle Process Improvement:",
+    "pinned": false,
+    "kind": "study",
+    "id": "B261"
   },
   {
     "date": "2026-12-26",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B262"
   },
   {
     "date": "2026-12-26",
     "start": "17:00",
     "end": "17:50",
     "subject": "DES3103",
-    "label": "Final Examination prep"
+    "label": "Final Examination prep",
+    "pinned": false,
+    "kind": "study",
+    "id": "B263"
   },
   {
     "date": "2026-12-27",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B264"
   },
   {
     "date": "2026-12-28",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B265"
   },
   {
     "date": "2026-12-28",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu",
+    "pinned": false,
+    "kind": "study",
+    "id": "B266"
   },
   {
     "date": "2026-12-29",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B267"
   },
   {
     "date": "2026-12-29",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu",
+    "pinned": false,
+    "kind": "study",
+    "id": "B268"
   },
   {
     "date": "2026-12-30",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B269"
   },
   {
     "date": "2026-12-30",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu",
+    "pinned": false,
+    "kind": "study",
+    "id": "B270"
   },
   {
     "date": "2026-12-31",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B271"
   },
   {
     "date": "2026-12-31",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu",
+    "pinned": false,
+    "kind": "study",
+    "id": "B272"
   },
   {
     "date": "2027-01-01",
     "start": "09:00",
     "end": "09:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B273"
   },
   {
     "date": "2027-01-01",
     "start": "21:00",
     "end": "21:50",
     "subject": "DES3083",
-    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu"
+    "label": "Week 14: Software Process Evaluation and Lessons Learned Software Process Evalu",
+    "pinned": false,
+    "kind": "study",
+    "id": "B274"
   },
   {
     "date": "2027-01-02",
     "start": "14:00",
     "end": "14:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B275"
   },
   {
     "date": "2027-01-03",
     "start": "15:00",
     "end": "15:50",
     "subject": "DES3103",
-    "label": "Week 14: Presentation, Reflection, Conclusion and Closure"
+    "label": "Week 14: Presentation, Reflection, Conclusion and Closure",
+    "pinned": false,
+    "kind": "study",
+    "id": "B276"
   }
 ]
